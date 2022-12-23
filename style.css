@@ -7,7 +7,7 @@
     color: white;
     height: 100vh;
     padding-top: 3vh;
-    background-image: url(./../sakura/header-bg-1.jpg);
+    background-image: url(./sakura/header-bg-1.jpg);
 }
 .left img{
     width: 100%;
@@ -137,7 +137,7 @@ text-align: center;
 .form{
     color: white;
     height: 88vh;
-    background-image: url(./../sakura/fon_ost-1.jpg);
+    background-image: url(./sakura/fon_ost-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
